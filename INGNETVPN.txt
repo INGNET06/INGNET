@@ -39,3 +39,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UTZrcnB0ek16cXBxblV3NG1LRm5KeDFMb2Q0UF9KTQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UTZrcnB0ek16cXBxblV3NG1LRm5KeDFMb2Q0UF9KTQ==@144.124.242.137:1080#Ingnet%F0%9F%87%B3%F0%9F%87%B1
 vless://6cca4a29-a8d2-4386-b543-bce30bc73e36@64.7.199.213:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&pbk=pZSNwr30wF_5jy2DClcmXr7WmS9omyZV37XJr1e_oW0&sid=15affa0af66dfc79#Ingnet%F0%9F%87%B7%F0%9F%87%B4
 vless://6cca4a29-a8d2-4386-b543-bce30bc73e36@158.160.196.133:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=a4Q6uYvpPq_DMNJQnxUeC_VdXiU1pg2-lZjQ-9v7SWg&sid=ad603f02899ccdec#Ingnet
+vless://75da9ef9-6cb3-4552-89e2-7d42c70cdae4@wai.kaguya.sbs:443?security=reality&encryption=none&pbk=AFGYSgtCvJ8IGvzrj7Yhc7hX1HHuhh9aAXqxd11wW24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wai.kaguya.sbs&sid=40edde2eb2e90ea2#Ingnet%F0%9F%87%A9%F0%9F%87%AA
