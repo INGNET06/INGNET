@@ -281,3 +281,4 @@ hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1#ingnet
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=www.cloudflare.com#ingnet
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#ingnet
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#ingnet
+vless://1834aa9f-c134-439e-bac8-8433910dba9e@free08.tunnely.ru:8080?path=%2Fws%2F&security=none&encryption=none&type=ws#Ingnet
